@@ -1,0 +1,40 @@
+body {
+    background: #ffffff ;
+ 
+  }
+  .main-header{
+    background-color: #ffffff !important;
+    width:100%;
+    
+    
+  }
+  .ort-header{
+  text-align: center ;
+    width: 100%;
+    height: 200px;
+    padding: 55px;
+  } 
+.nav-alt-bar{
+text-align: center;    
+}
+.card{
+  justify-content: center;
+  text-align: center;
+  display: grid;
+  width: 100%;
+}
+h1{
+  color: 
+  white;
+  
+}
+h4{
+  color: 
+  white;
+
+}
+.container{
+ justify-items: center;
+ justify-content: center;
+}
+
